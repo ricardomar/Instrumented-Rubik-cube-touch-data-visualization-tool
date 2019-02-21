@@ -17,7 +17,8 @@
 
 - The C++ code implementing the visualization tool (including the live data acquisition from the instrumented cube) is available here. Demonstration videos of a subject interacting with the Rubik cube are presented next.
 
-
+- [Demo video 01](https://youtu.be/XHGLP32I3TM) 
 [![alt text](https://img.youtube.com/vi/XHGLP32I3TM/0.jpg)](https://youtu.be/XHGLP32I3TM)
 
+- [Demo video 02](https://youtu.be/uQ6bt3ljAtM) 
 [![alt text](https://img.youtube.com/vi/uQ6bt3ljAtM/0.jpg)](https://youtu.be/uQ6bt3ljAtM)
