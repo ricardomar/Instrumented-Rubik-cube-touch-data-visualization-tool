@@ -1,5 +1,5 @@
 # Instrumented Rubik cube touch data visualization tool
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4570631.svg)](https://doi.org/10.5281/zenodo.4570631)
 
 
 ## Objectives:
